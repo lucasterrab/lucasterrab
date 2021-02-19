@@ -8,4 +8,4 @@
 
 :space_invader: [TryHackMe Profile](https://tryhackme.com/p/lucastb)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lucastb.png" alt="TryHackMe">
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/lucastb.png)

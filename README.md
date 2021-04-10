@@ -13,9 +13,9 @@ My name is Lucas Terranova Barberio, I'm a 24-year-old Brazilian. I have been a 
 Get in touch with me and let's have a chat:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lealluisf" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lealluisf" /></a>
+  <a href="https://www.linkedin.com/in/lucasterrab" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasterrab" /></a>
 
   <a href="mailto:lucas.terranovab@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-felipelealdefaria@gmail.com-ce2d28?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucas.terranovab@gmail.com"/></a>
+  <img src="https://img.shields.io/badge/-lucas.terranovab@gmail.com-ce2d28?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucas.terranovab@gmail.com"/></a>
 </p>  

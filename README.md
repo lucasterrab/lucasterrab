@@ -4,9 +4,8 @@
 
 **Software Engineer Student** at PUC-Campinas.
 
-**Frontend Developer** at @Codengage.
-
-My name is Lucas Terranova Barberio, I'm a 24-year-old Brazilian. I have been a software developer since 2016. Currently, my stack is more focused on JavaScript & TypeScript applications; however, I am always ready for new challenges.
+My name is Lucas Terranova Barberio, I'm a 24-year-old Brazilian. I have been a software developer since 2020. My stack is more focused on C# & Python applications, but I am always ready for new challenges.
+Currently I'm learning Go on my free time.
 
 ### **Want to get to know me better?**
 

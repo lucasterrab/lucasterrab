@@ -6,7 +6,7 @@
 
 My name is Lucas Terranova Barberio, I'm a 24-year-old Brazilian. I have been a software developer student since 2019 and started working in the field in 2020. My stack is more focused on C# & Python applications, but I am always ready for new challenges.
 
-Currently I'm learning Rust and Go on my free time.
+Currently I'm learning Rust on my free time.
 
 ### **Want to get to know me better?**
 

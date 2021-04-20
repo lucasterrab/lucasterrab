@@ -6,7 +6,7 @@
 
 My name is Lucas Terranova Barberio, I'm a 24-year-old Brazilian. I have been a software developer student since 2019 and started working in the field in 2020. My professional experience is more focused on C#, but I am always ready for new challenges.
 
-Currently I'm learning Elixir on my free time.
+Currently I'm learning Go and Elixir on my free time.
 
 ### **Want to get to know me better?**
 
